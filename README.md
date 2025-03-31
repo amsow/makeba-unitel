@@ -3,7 +3,7 @@
 ## Section 1: Overview and Core Architecture
 
 ### Overview
-This document outlines the technical specifications for the banking flow implementation in the Unitel T+ platform, focusing on deposit and withdrawal features. The system ensures secure, efficient, and real-time money movement between users and agents.
+This document outlines the technical specifications for the banking flow implementation in the Makeba/Unitel T+ platform, focusing on deposit and withdrawal features. The system ensures secure, efficient, and real-time money movement between users and agents.
 
 ### System Architecture
 
